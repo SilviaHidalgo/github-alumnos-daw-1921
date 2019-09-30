@@ -18,3 +18,4 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Luque Rodríguez, Javier](https://github.com/javierluque96)
 * [Milanes Barroso, Maria Teresa](https://github.com/MteresaMilanes)
 * [Torreblanca Herrero, Ildefonso](https://github.com/ildeth/Programaci-nDaw19-20.git)
+* [Hidalgo Moreno, Silvia](https://github.com/SilviaHidalgo/Programacion)
